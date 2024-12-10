@@ -5,8 +5,6 @@ The rationale is to exploit data that contains different levels of resolution / 
 
 ## Application: Cardiac shapes
 
-Gabriel:
-
 We use a dataset of End-Diastolic biventricular cardiac shapes, obtained through MRI using a deformable template. We identified two levels:
 - A simple description, based on 3 global scalar measurements that are commonly used in clinical practice: right ventricular ED volume (RV-EDV),  left ventricular ED volume (RV-EDV) and left ventricular myocardial mass (LVM).
 - The shape itself, encoded via a Point Distribution Model
@@ -25,6 +23,7 @@ We used a dataset of MR images segmentations from MIMI cohort [1]
 Installation with python 3.11:
 in anaconda prompt:
 
+<<<<<<< HEAD
 cd .../Code_these_pour_ND/gpHierarchy \n
 pip install -e . \n
 pip install tensorflow \n
@@ -36,3 +35,20 @@ pip install pyvista \n
 ## References
 
 [1] Belle et al.
+=======
+pip install -e . 
+
+pip install tensorflow 
+
+pip install gpflow 
+
+pip install tf_keras 
+
+pip install GPy 
+
+pip install pyvista
+
+## References
+
+TODO
+>>>>>>> 52f72c3e297808f95f8545e126db30ccd4f116cf
