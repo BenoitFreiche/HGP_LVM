@@ -30,4 +30,5 @@ pip install pyvista
 ## References
 
 [1] B. Freiche, G. Bernardino, R. Deleat-Besson, P. Clarysse and N. Duchateau (2024) Hierarchical data integration with Gaussian processes: application to the characterization of cardiac ischemia-reperfusion patterns, IEEE Transactions on Medical Imaging, https://doi.org/10.1109/TMI.2024.3512175
+
 [2] Belle L et al. Comparison of Immediate With Delayed Stenting Using the Minimalist Immediate Mechanical Intervention Approach in Acute ST-Segment-Elevation Myocardial Infarction: The MIMI Study. Circ Cardiovasc Interv. 2016 Mar;9(3):e003388. doi: 10.1161/CIRCINTERVENTIONS.115.003388. PMID: 26957418.
