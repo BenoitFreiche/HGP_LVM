@@ -3,9 +3,7 @@ A modification of Gaussian Process Latent Variable Models for data integration t
 
 The rationale is to exploit data that contains different levels of resolution / granuality, similarly to a multi-scale approach.
 
-This code corresponds to the following paper:
-
-B. Freiche, G. Bernardino, R. Deleat-Besson, P. Clarysse and N. Duchateau (2024) Hierarchical data integration with Gaussian processes: application to the characterization of cardiac ischemia-reperfusion patterns, IEEE Transactions on Medical Imaging, https://doi.org/10.1109/TMI.2024.3512175
+This code corresponds to the paper [1].
 
 ## Application: CelebA
  The orginal focus of the paper [1] is the characterization of cardiac ischemia-reperfusion patterns, using an MR imaging dataset, the MIMI database [2]. In this repository, we rather illustrate the method on a public imaging dataset, a reduced version of CelebA. This version can be downloaded here #TODO.
