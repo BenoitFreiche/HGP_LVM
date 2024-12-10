@@ -37,4 +37,4 @@ pip install pyvista
 
 ## References
 
-TODO
+[1] Belle L et al. Comparison of Immediate With Delayed Stenting Using the Minimalist Immediate Mechanical Intervention Approach in Acute ST-Segment-Elevation Myocardial Infarction: The MIMI Study. Circ Cardiovasc Interv. 2016 Mar;9(3):e003388. doi: 10.1161/CIRCINTERVENTIONS.115.003388. PMID: 26957418.
