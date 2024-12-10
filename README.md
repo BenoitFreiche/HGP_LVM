@@ -22,19 +22,17 @@ We used a dataset of MR images segmentations from MIMI cohort [1]
 
 ## Usage
 
-Installation with python 3.11 (BF 18/04/24):
+Installation with python 3.11:
 in anaconda prompt:
 
-cd .../Code_these_pour_ND/gpHierarchy
-pip install -e .
-pip install tensorflow
-pip install gpflow
-pip install tf_keras
-pip install GPy
-pip install pyvista
-
-There shouldn't be problems with dependencies now
+cd .../Code_these_pour_ND/gpHierarchy \n
+pip install -e . \n
+pip install tensorflow \n
+pip install gpflow \n
+pip install tf_keras \n
+pip install GPy \n
+pip install pyvista \n
 
 ## References
 
-TODO
+[1] Belle et al.
